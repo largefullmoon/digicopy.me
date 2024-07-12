@@ -1,0 +1,43 @@
+{
+	"editorVersion": "4.5.0",
+	"lastOpenedScene": "projects/scene/scene.editorproject",
+	"serverPort": 1338,
+	"generateSceneOnSave": true,
+	"firstLoad": false,
+	"watchProject": true,
+	"physicsEngine": "cannon",
+	"pluginsPreferences": {},
+	"packageManager": "npm",
+	"outputSceneDirectory": "",
+	"https": {
+		"enabled": false
+	},
+	"autoLod": {
+		"enabled": false,
+		"autoApply": true
+	},
+	"basisCompressedTextures": {
+		"enabled": false
+	},
+	"ktx2CompressedTextures": {
+		"enabled": false,
+		"pvrTexToolCliPath": "",
+		"nvidiaTextureToolsLink": {},
+		"forcedFormat": "automatic",
+		"enabledInPreview": false,
+		"astcOptions": {
+			"quality": "astcveryfast"
+		},
+		"pvrtcOptions": {
+			"quality": "pvrtcfastest"
+		},
+		"ect1Options": {
+			"enabled": false,
+			"quality": "etcfast"
+		},
+		"ect2Options": {
+			"enabled": false,
+			"quality": "etcfast"
+		}
+	}
+}

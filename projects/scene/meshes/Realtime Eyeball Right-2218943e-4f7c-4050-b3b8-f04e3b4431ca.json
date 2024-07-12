@@ -1,0 +1,160 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "Realtime Eyeball Right",
+			"id": "2218943e-4f7c-4050-b3b8-f04e3b4431ca",
+			"uniqueId": 125,
+			"type": "Mesh",
+			"position": [
+				-0.03068602830171585,
+				0.041559092700481415,
+				0.08779144287109375
+			],
+			"rotationQuaternion": [
+				0.7071066498756409,
+				0,
+				0,
+				0.70710688829422
+			],
+			"scaling": [
+				1.0933946371078491,
+				1.0933945178985596,
+				1.0933945178985596
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": 0,
+			"parentId": "b5a92a6f-b422-454d-ab56-c27bf67ca613",
+			"isUnIndexed": false,
+			"geometryId": "9def7b04-2c77-437d-9063-e6d8c170ce8a",
+			"subMeshes": null,
+			"materialId": "469a6a06-5ff3-4dc6-84a9-ff12e60aa89c",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": -0.9145828485488892,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 3.3967913282140216e-7,
+					"6": -0.9145829677581787,
+					"7": 0,
+					"8": 0,
+					"9": 0.9145829677581787,
+					"10": 3.3967913282140216e-7,
+					"11": 0,
+					"12": 0.028064915910363197,
+					"13": -0.08029257506132126,
+					"14": 0.03800920769572258,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "Realtime Eyeball Right",
+					"name": "Realtime Eyeball Right",
+					"sceneFileName": "Face/Liz_v01.glb"
+				},
+				"isPickable": false,
+				"script": {
+					"name": "None"
+				},
+				"renderingGroupId": 0
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": true,
+			"overlayAlpha": 0.3,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/9def7b04-2c77-437d-9063-e6d8c170ce8a.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				0.015229330398142338,
+				0.016604527831077576,
+				0.015246465802192688
+			],
+			"boundingBoxMinimum": [
+				-0.015259664505720139,
+				-0.015178099274635315,
+				-0.015246465802192688
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 5190,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 5190,
+					"stride": 3,
+					"offset": 20760,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 3460,
+					"stride": 2,
+					"offset": 41520,
+					"dataType": 1
+				},
+				"colorsAttrDesc": {
+					"count": 6920,
+					"stride": 4,
+					"offset": 55360,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 9984,
+					"stride": 1,
+					"offset": 83040,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 122976,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"colors": null,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

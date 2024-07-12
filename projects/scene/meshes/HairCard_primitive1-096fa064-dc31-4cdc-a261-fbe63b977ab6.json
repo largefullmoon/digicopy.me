@@ -1,0 +1,156 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "HairCard_primitive1",
+			"id": "096fa064-dc31-4cdc-a261-fbe63b977ab6",
+			"uniqueId": 95,
+			"type": "Mesh",
+			"position": [
+				0,
+				0,
+				0
+			],
+			"rotation": [
+				0,
+				0,
+				0
+			],
+			"scaling": [
+				1,
+				1,
+				1
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": 0,
+			"parentId": "63f284e8-7aa1-4e86-8147-cc4217630571",
+			"isUnIndexed": false,
+			"geometryId": "5a90aa21-ba82-423a-a6e9-8a40163beec2",
+			"subMeshes": null,
+			"materialId": "9ab0f47b-5067-43d1-a7a0-3cffbf87dfef",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": -1,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 1,
+					"6": 0,
+					"7": 0,
+					"8": 0,
+					"9": 0,
+					"10": 1,
+					"11": 0,
+					"12": 0,
+					"13": 0,
+					"14": 0,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "HairCard_primitive1",
+					"name": "HairCard_primitive1",
+					"sceneFileName": "Face/Liz_v01.glb"
+				},
+				"isPickable": false
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.3,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/5a90aa21-ba82-423a-a6e9-8a40163beec2.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				0.13054370880126953,
+				0.17153650522232056,
+				0.12522061169147491
+			],
+			"boundingBoxMinimum": [
+				-0.099867083132267,
+				-0.07615090161561966,
+				-0.12244363129138947
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 125874,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 125874,
+					"stride": 3,
+					"offset": 503496,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 83916,
+					"stride": 2,
+					"offset": 1006992,
+					"dataType": 1
+				},
+				"uvs2AttrDesc": {
+					"count": 83916,
+					"stride": 2,
+					"offset": 1342656,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 165168,
+					"stride": 1,
+					"offset": 1678320,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 2338992,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"uv2s": null,
+			"hasUVs2": true,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

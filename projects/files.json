@@ -1,0 +1,22 @@
+{
+	"Face/FBHead_preview_mat.002 (Base Color).png": {
+		"autoLod": {
+			"disabled": false
+		}
+	},
+	"Face/Teeth (Base Color).png": {
+		"autoLod": {
+			"disabled": false
+		}
+	},
+	"Face/Teeth (Normal).jpeg": {
+		"autoLod": {
+			"disabled": false
+		}
+	},
+	"Face/Teeth_diffuse.jpg": {
+		"autoLod": {
+			"disabled": false
+		}
+	}
+}
